@@ -8,5 +8,6 @@ public class SingletonPatternDemo {
 
         //TODO: Show the message
         object.showMessage();
+
     }
 }
